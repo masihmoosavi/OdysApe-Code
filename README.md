@@ -105,13 +105,13 @@
 - Unity
 - C#
 - Unity Entities / ECS
-- `IComponentData`
-- `IBufferElementData`
+- IComponentData
+- IBufferElementData
 - Dynamic Buffer
 - Baking
-- `IAspect`
-- `ISystem`
-- `SystemAPI`
-- `Burst Compiler`
+- IAspect
+- ISystem
+- SystemAPI
+- Burst Compiler
 
 > این کدها بخشی از معماری ECS پروژه OdysApe هستند و برای استفاده کامل، به سایر سیستم‌ها و Componentهای پروژه وابسته‌اند.
